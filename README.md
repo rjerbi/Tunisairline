@@ -19,15 +19,15 @@ The system allows users to search for available flights and make reservations, w
 - Django
 - PostgreSQL
 
-## Installation and project running :
+## Installation:
 - Install project dependencies with:
   pip install -r requirements.txt
 
-- Run the Project :
-  python manage.py makemigrations
-  python manage.py migrate
-  python manage.py createsuperuser
-  python manage.py runserver
+## Run the Project :
+- python manage.py makemigrations
+- python manage.py migrate
+- python manage.py createsuperuser
+- python manage.py runserver
 
 - Open your browser at:
   http://127.0.0.1:8000/
